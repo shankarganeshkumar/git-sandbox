@@ -1,4 +1,4 @@
-  The first commit to the file. This line will be committed to the repository.
+ The first commit to the file. This line will be committed to the repository.
 
  This changes will be for the next commit.
 
@@ -25,3 +25,7 @@ sdfsdfsdf
  adding few more changes to the file.
  adding some changes ins the master branch.
 
+int addition (int a, int b, int c)
+{
+c= a + b;
+}
