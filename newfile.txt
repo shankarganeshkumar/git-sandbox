@@ -12,3 +12,8 @@ module_three
 {
 content
 }
+
+module_four
+{
+content
+}
