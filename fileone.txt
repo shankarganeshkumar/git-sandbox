@@ -70,3 +70,5 @@ int addition (int a, int b, int c)
 c= a + b;
 }
 
+changes related to rebase command
+
