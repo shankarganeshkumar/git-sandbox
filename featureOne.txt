@@ -3,3 +3,5 @@
  Adding more changes for explaining rebase command
 
  Adding the feature to the file. Working on the feature accomplished.
+
+ Feature modifications completed.
