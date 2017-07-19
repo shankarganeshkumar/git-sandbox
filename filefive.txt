@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Adding first line to the file
-=======
 Adding the first line to the file
->>>>>>> feature_branch
+Changes with respect to master branch
