@@ -64,19 +64,17 @@
     return a % b;
  }
 
-
 int addition (int a, int b, int c)
 {
 c= a + b;
 }
 
-
-
-
-
-
 adding some more changes made in master branch
 
 changes related to rebase command
 
+
 Trailer content added from master branch
+
+Trailer content as part of rebase commit
+initial commit from feature branch for rebase
