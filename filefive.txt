@@ -1,4 +1,4 @@
 Adding first line to the file
 Adding the first line to the file
 Adding changes for 3 way commit
-Adding somre more changes on the server
+Adding somre more changes as part of 3 way commit testing
