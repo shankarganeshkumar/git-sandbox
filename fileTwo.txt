@@ -5,3 +5,5 @@
  Amending the commit one more time in the master branch.
  Adding some changes in the master branch.
  Assignment 3 changes
+ Fast forward commit changes
+ Fast forward commit second time
