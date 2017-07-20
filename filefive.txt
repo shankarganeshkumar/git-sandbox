@@ -1,3 +1,5 @@
 Adding first line to the file
 Adding the first line to the file
 Changes with respect to master branch
+Adding changes for 3 way commit
+Adding somre more changes as part of 3 way commit testing
